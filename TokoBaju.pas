@@ -36,11 +36,11 @@ type
 		JumlahBeliXL	: integer;
 	end;
 	transaksi = record
-		NamaBaju 		: string;
-		WarnaBaju 		: string;
+		NamaBaju 	: string;
+		WarnaBaju	: string;
 		BeratPerBajuKg 	: string;
-		BahanBaju 		: string;
-		Harga 			: string;
+		BahanBaju 	: string;
+		Harga 		: string;
 		JumlahBeliS 	: integer;
 		JumlahBeliM 	: integer;
 		JumlahBeliL 	: integer;
